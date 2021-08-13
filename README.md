@@ -34,6 +34,7 @@
 <!-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
 <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40">
+  <img  src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4" alt="C++" width="40" height="40">
 
 
 </p>
