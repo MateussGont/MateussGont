@@ -26,7 +26,7 @@
     alt="Mateus-Gontijo" />
 </p>
 <p>&nbsp;
-  <img align="center"
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api?username=mateussgont&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2"
     alt="Mateus-Gontijo" />
 </p>
