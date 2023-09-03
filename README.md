@@ -16,7 +16,7 @@
   <br />
   📚 <b>Computational Engenieering</b>.<br />
   <b>
-    🖥<b>Dev C#,JS,Py,Java,Go,Rust </b>
+    🖥<b> Node,Py,Java,Ruby,Embedded Rust </b>
 </p>
 
 <hr />
