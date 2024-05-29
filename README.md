@@ -1,14 +1,14 @@
 ```js
-import Desenvolvedor from "MateussGont";
+import Dev from "MateussGont";
 
-class SobreMim extends Desenvolvedor {
+class SobreMim extends Dev {
   nome = "Mateus Gontijo";
   area = "Desenvolvedor Backend";
   trabalho = "MSG Tech Services ltda";
   local = "PT-BR";
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Dev {
   linguagens = ["Java", "C", "C++", "Ruby", "Js"];
   bibliotecas = ["Hibernate", "Arduino", "STM-32", "Threads.h", "UNIX", "Open-Gl"];
   frameworks = ["React", "Ruby on Rails", "Unity"];
