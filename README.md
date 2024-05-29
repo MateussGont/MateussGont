@@ -2,16 +2,16 @@
 import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Mateus Gontijo";
+  area = "Desenvolvedor Backend";
+  trabalho = "MSG Tech Services ltda";
+  local = "PT-BR";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
+  linguagens = ["Java", "C", "C++", "Ruby", "Js"];
+  bibliotecas = ["Hibernate", "Arduino", "STM-32", "Threads.h", "UNIX", "Open-Gl"];
+  frameworks = ["React", "Ruby on Rails", "Unity"];
 }
 ```
 ### ⚙️ GitHub Analytics
