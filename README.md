@@ -4,7 +4,7 @@ import Dev from "MateussGont";
 class SobreMim extends Dev {
   nome = "Mateus Gontijo";
   area = "Desenvolvedor Backend";
-  trabalho = "MSG Tech Services ltda";
+  trabalho = "Helpy Inc.";
   local = "PT-BR";
 }
 
